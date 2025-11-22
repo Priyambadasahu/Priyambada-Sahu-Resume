@@ -3,7 +3,8 @@
 This repository contains my latest resume for job applications.  
 You can download/view it directly from the link below:
 
-👉 [Download Resume (PDF)](Priyambada-Sahu-Resume.pdf)
+👉 [Download Resume (PDF)](Priyambada_resume_.pdf)
+
 
 ## About Me
 - B.Tech in Computer Science and Engineering (2023)
